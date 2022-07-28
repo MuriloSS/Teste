@@ -1,4 +1,10 @@
 ESCOLA;NOME;TIPO;VALOR_PARCELA;QTD;TOTAL
+CAF;Daniele Guimarães;Avançado;210;24;5040
+CAF;Francisca Gleice Alves;Avançado;210;24;5040
+EAQ;Herica Samara Leite Leao dos Anjos;Avançado;210;24;5040
+EAQ;Licia Bruna Fernandes Bezerra Melo;Avançado;210;24;5040
+EAQ;Thalita Ribeiro de Moura Santos;Avançado;171;30;5130
+CAF;Cleirislene Oliveira de Araújo;Avançado;171;30;5130
 CAF;Cristiane Pereira Carmo da Silva ;Avançado;210;24;5040
 CAF;Aline Nascimento de Araújo;Avançado ;171;30;5130
 CAF;Maria Leni de Sousa;Avançado;171;30;5130
@@ -23,7 +29,7 @@ CAR;Rosangela Donato;Avançado;210;24;5040
 CAR;Flávia Santos;Avançado;210;24;5040
 CAR;Thayanne Tavares;Avançado;275;18;4950
 CAR;Priscila Silva;Avançado;210;24;5040
-APE;Hélvio (Secretário CAMPO);Avançado;210;24;5040
+APE;Hélvio (Secretário CAMPO);Avançado;5040;1;5040
 CAA;Adriana Rodrigues;Avançado;210;24;5040
 CAA;Carla Gerlane;Avançado ;210;24;5040
 CAA;Roselucia Medeiros;Avançado;171;30;5130
@@ -82,7 +88,7 @@ CAM;Valéria Carmelita;Avançado;210;24;5040
 CAM;Maritania da Silva;Avançado;171;30;5130
 CAM;Thais Oliveira Fortunato;Avançado;171;30;5130
 CAUP;Adney Angelo;Avançado;210;24;5040
-IAPE;Sharlene Ramos;Avançado;210;24;5040
+IAPE;Sharlene Ramos;Avançado;5040;1;5040
 CAM-Colégio;Colégio Adventista de Maceió;Avançado;4731;1;4731
 CAM-Colégio;Colégio Adventista de Maceió;Avançado;4731;1;4731
 CAM-Colégio;Colégio Adventista de Maceió;Avançado;4731;1;4731
